@@ -13,9 +13,10 @@ while (otvet != numm)
     {  
     Console.WriteLine("Вы ввели не верное значение попробуйте еще раз");
     otvet = Convert.ToInt32(Console.ReadLine());
+        continue;
     }
-    else { 
-        if (otvet < numm)
+    else {
+         if (otvet < numm)
         Console.WriteLine("Больше");
          else
         Console.WriteLine("Меньше");
