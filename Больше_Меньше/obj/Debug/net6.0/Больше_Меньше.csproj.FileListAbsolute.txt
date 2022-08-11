@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\С#\Больше_Меньше\bin\Debug\net6.0\Больше_Меньше.exe
+C:\Users\home\Desktop\С#\Больше_Меньше\bin\Debug\net6.0\Больше_Меньше.deps.json
+C:\Users\home\Desktop\С#\Больше_Меньше\bin\Debug\net6.0\Больше_Меньше.runtimeconfig.json
+C:\Users\home\Desktop\С#\Больше_Меньше\bin\Debug\net6.0\Больше_Меньше.dll
+C:\Users\home\Desktop\С#\Больше_Меньше\bin\Debug\net6.0\Больше_Меньше.pdb
+C:\Users\home\Desktop\С#\Больше_Меньше\obj\Debug\net6.0\Больше_Меньше.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\С#\Больше_Меньше\obj\Debug\net6.0\Больше_Меньше.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\С#\Больше_Меньше\obj\Debug\net6.0\Больше_Меньше.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\С#\Больше_Меньше\obj\Debug\net6.0\Больше_Меньше.AssemblyInfo.cs
+C:\Users\home\Desktop\С#\Больше_Меньше\obj\Debug\net6.0\Больше_Меньше.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\С#\Больше_Меньше\obj\Debug\net6.0\Больше_Меньше.dll
+C:\Users\home\Desktop\С#\Больше_Меньше\obj\Debug\net6.0\refint\Больше_Меньше.dll
+C:\Users\home\Desktop\С#\Больше_Меньше\obj\Debug\net6.0\Больше_Меньше.pdb
+C:\Users\home\Desktop\С#\Больше_Меньше\obj\Debug\net6.0\Больше_Меньше.genruntimeconfig.cache
+C:\Users\home\Desktop\С#\Больше_Меньше\obj\Debug\net6.0\ref\Больше_Меньше.dll
